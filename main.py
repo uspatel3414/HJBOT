@@ -1,4 +1,3 @@
-
 import logging
 import time
 from instagram_client import InstagramClient
